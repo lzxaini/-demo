@@ -63,10 +63,6 @@ include("./not_log_head.php");
 					具有面向对象思想,有较好的团队协作和沟通能力,有责任心;<br/>
 					缺点：实际企业开发经验较少，部分功能的运用需要翻阅开发手册<br/>
 				</h4>
-					
-<!-- 				<iframe name="myifr" src="end/resume.html" width="850px;" height="700px;">
-					
-				</iframe> -->
 			</div>
 		</div>
 	</div>
