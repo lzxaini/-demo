@@ -42,7 +42,7 @@
 					    <a href="admin/logoin.php"><span class="glyphicon glyphicon-piggy-bank"></span> 管理员登录</a>
 					</li>
 				   <li>
-				   	<a href="关于.php"><span class="glyphicon glyphicon-tree-deciduous"></span> 简介</a>
+				   	<a href="About.php"><span class="glyphicon glyphicon-tree-deciduous"></span> 简介</a>
 				   </li>
 <!-- 					<li><a href="#"><span class="glyphicon glyphicon-question-sign"></span>&nbsp;关于</a></li> -->
 				</ul>				
